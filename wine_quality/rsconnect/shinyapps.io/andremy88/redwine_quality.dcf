@@ -1,0 +1,12 @@
+name: redwine_quality
+title: redwine_quality
+username:
+account: andremy88
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1648155
+bundleId: 2722796
+url: https://andremy88.shinyapps.io/redwine_quality/
+when: 1578802264.03143
+asMultiple: FALSE
+asStatic: FALSE
